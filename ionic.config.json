@@ -1,0 +1,7 @@
+{
+  "name": "file-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
